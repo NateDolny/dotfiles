@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale --no-xinerama '/home/nate/Downloads/bear.png' 
